@@ -1,7 +1,8 @@
 # Quotes Generator Project
 
 Welcome to the Quotes Generator project! This is a simple web application that displays a random quote each time you click the "New Quote" button. It's a great way to get some inspiration or motivation. In this guide, I'll walk you through the steps to execute this project.
-Click [here] (https://yuvrxjsr.github.io/quotes-generator/) to see the live demo.
+
+Click [here](https://yuvrxjsr.github.io/quotes-generator/) to see the live demo.
 
 ## Project Overview
 This project consists of three main components: HTML, CSS, and JavaScript.
