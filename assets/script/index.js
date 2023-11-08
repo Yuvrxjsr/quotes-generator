@@ -1,3 +1,5 @@
+'use strict';
+
 const quoteElement = document.querySelector('h1');
 
 const quotes = [
