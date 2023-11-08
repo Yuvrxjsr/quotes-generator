@@ -70,4 +70,5 @@ The JavaScript file handles generating and displaying random quotes.
 - The load event listener sets the initial quote when the page loads.
 - The click event listener on the "New Quote" button generates and displays a new random quote.
 
+Output:-
 ![](./assets/img/output.png)
